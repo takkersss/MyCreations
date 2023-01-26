@@ -1,6 +1,6 @@
 Links to all my mods !
 
-Crazy Stuff [CRST] : <-- My best & latest mod
+Crazy Stuff [CRST] : --> My best & latest mod
 https://www.curseforge.com/minecraft/mc-mods/crazy-stuff-crst
 
 More Various Stones [MVS] :
